@@ -3,7 +3,7 @@
 <head>
     <link rel="stylesheet" href="_css/estilo.css"/>
     <meta charset="utf-8" />
-   <title> PHP Guanabara </title>
+   <title> PHP Guanabara2 </title>
 </head>
 <body>
 <div>
